@@ -1,0 +1,19 @@
+{
+  "name": "react-wag-experiments",
+  "version": "0.0.1",
+  "author": "Julien Déoux <juliendeoux@gmail.com>",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "jotai": "^1.8.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.2.0",
+    "react-wag": "0.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
+    "parcel": "^2.7.0"
+  }
+}

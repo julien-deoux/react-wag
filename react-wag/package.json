@@ -1,0 +1,22 @@
+{
+  "name": "react-wag",
+  "version": "0.0.1",
+  "description": "Web Audio Graph implementation for React",
+  "author": "Julien Déoux <juliendeoux@gmail.com>",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.21",
+    "@types/react-reconciler": "^0.26.6",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "react-reconciler": "^0.29.0"
+  }
+}
