@@ -1,2 +1,2 @@
 # react-wag
-Experimental React rendered for web audio graphs
+Experimental React renderer for web audio graphs
